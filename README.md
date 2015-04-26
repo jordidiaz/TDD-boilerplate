@@ -1,0 +1,1 @@
+Simple TDD boilerplate with coffeescript and jasmine. Just run `npm install` and `gulp`.
